@@ -1,0 +1,17 @@
+#wrapper{
+  width: 100%;
+}
+
+#version{
+  position: absolute;
+  bottom: 0;
+  left: 10px;
+}
+
+.nav-tool-items:hover{
+  cursor:pointer;
+}
+
+#outlet {
+  min-width: 0px;
+}

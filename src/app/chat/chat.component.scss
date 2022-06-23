@@ -1,0 +1,50 @@
+.message{
+  background-color: #99a7ff;
+  width: 80%;
+  word-wrap: break-word;
+  margin-bottom: 20px;
+}
+
+.my-message{
+  background-color: #FF855D;
+  width: 80%;
+  word-wrap: break-word;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
+
+.other-message{
+  background-color:#99a7ff;
+  width: 80%;
+  word-wrap: break-word;
+  margin-bottom: 20px;
+}
+
+.circle {
+  display: inline-block;
+  height: 8px;
+  width: 8px;
+  background-color: #00ff00;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: white;
+}
+
+.date-text{
+  font-size: 9px;
+  color: white;
+}
